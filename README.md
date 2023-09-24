@@ -7,11 +7,6 @@ This repository contains implementations and practice code for various machine l
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
